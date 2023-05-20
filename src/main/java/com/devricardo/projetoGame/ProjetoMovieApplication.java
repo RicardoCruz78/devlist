@@ -1,4 +1,4 @@
-package com.devricardo.projetoMovie;
+package com.devricardo.projetoGame;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

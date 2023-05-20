@@ -1,6 +1,6 @@
-package com.devricardo.projetoMovie.dto;
+package com.devricardo.projetoGame.dto;
 
-import com.devricardo.projetoMovie.entities.Game;
+import com.devricardo.projetoGame.entities.Game;
 
 import jakarta.persistence.Column;
 

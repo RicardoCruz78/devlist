@@ -1,4 +1,4 @@
-package com.devricardo.projetoMovie.entities;
+package com.devricardo.projetoGame.entities;
 
 import java.util.Objects;
 

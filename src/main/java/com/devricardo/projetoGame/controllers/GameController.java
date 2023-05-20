@@ -1,4 +1,4 @@
-package com.devricardo.projetoMovie.controllers;
+package com.devricardo.projetoGame.controllers;
 
 import java.util.List;
 
@@ -7,8 +7,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.devricardo.projetoMovie.dto.GameMinDto;
-import com.devricardo.projetoMovie.services.GameService;
+import com.devricardo.projetoGame.dto.GameMinDto;
+import com.devricardo.projetoGame.services.GameService;
 
 @RestController
 @RequestMapping(value = "/games")
